@@ -1,0 +1,11 @@
+.timer{
+    margin: 20px auto;
+    text-align: center;
+    color: maroon;
+    font-family: fantasy;
+    font-size: 100px;
+    cursor: default;
+}
+.timer div {
+    display: inline;
+}
